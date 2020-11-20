@@ -1,0 +1,8 @@
+Handwritten digit classification on MNIST
+
+1. Set of 70k small images of digits.
+2. MNIST is the hello world of ML
+3. There are 70k images and each images has 784 features.
+4. Each images is 28*28 pixels and each feature simply represents one pixels intensity, from 0(white) to 255(black).
+5. We will first fetch the data and then split it into train and test sets.
+6. After that we will apply few ML alg. to detect given digit.
